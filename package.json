@@ -1,0 +1,22 @@
+{
+  "name": "yamextension",
+  "version": "1.0.0",
+  "description": "extension for playing through bookmark data",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julien101101/yamextension.git"
+  },
+  "keywords": [
+    "keep"
+  ],
+  "author": "JUge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julien101101/yamextension/issues"
+  },
+  "homepage": "https://github.com/Julien101101/yamextension#readme"
+}

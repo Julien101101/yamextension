@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "yamextension",
+    "version": "1.0",
+    "description": "sets bookmark data. gets bookmark data. reads",
+    "permissions": ["activeTab"],
+    "browser_action": {
+        "default_popup" : "popup.html",
+        "default_icon" : "icon.png"
+    },
+    "icons":{"128": "icon_128.png"}   
+}
